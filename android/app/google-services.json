@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "502567198995",
+    "firebase_url": "https://fluttertest-f77be.firebaseio.com",
+    "project_id": "fluttertest-f77be",
+    "storage_bucket": "fluttertest-f77be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502567198995:android:52aa869eb049ea87747ae6",
+        "android_client_info": {
+          "package_name": "com.medsedki.collectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502567198995-otq0en03a2clqto2aa88lf3e6ahr0d2p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medsedki.collectapp",
+            "certificate_hash": "027f31093919e7150212081323c1f3567e1c7c92"
+          }
+        },
+        {
+          "client_id": "502567198995-q6uqq1dlm2d5t31hugd9mdf8rdbpt4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rIJjL8ZHqP6lxOEzA7mPVCWPEEEhEsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502567198995-q6uqq1dlm2d5t31hugd9mdf8rdbpt4jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502567198995-fars0u7ed0ngmfiq84v1csh12m27fvfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medsedki.collectapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502567198995:android:a5a7dfb8ba8a724a747ae6",
+        "android_client_info": {
+          "package_name": "com.medsedki.firebasestorageuploads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502567198995-q6uqq1dlm2d5t31hugd9mdf8rdbpt4jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7rIJjL8ZHqP6lxOEzA7mPVCWPEEEhEsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502567198995-q6uqq1dlm2d5t31hugd9mdf8rdbpt4jm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502567198995-fars0u7ed0ngmfiq84v1csh12m27fvfb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.medsedki.collectapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
