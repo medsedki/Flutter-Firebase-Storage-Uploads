@@ -29,6 +29,55 @@ A few resources to get you started if this is your first Flutter project:
    }
  }
 
+## Screen
+
+<img src="assets/screens/screen1.png" width="340" height="520" />
+
+<table>
+    <tr>
+        <td style="padding:5px">
+            <img src="assets/screens/screen2.png">
+        </td>
+        <td style="padding:5px">
+            <img src="assets/screens/screen3.png">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="padding:5px">
+            <img src="assets/screens/screen4.png">
+        </td>
+        <td style="padding:5px">
+            <img src="assets/screens/screen5.png">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="padding:5px">
+            <img src="assets/screens/screen6.png">
+        </td>
+        <td style="padding:5px">
+            <img src="assets/screens/screen7.png">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td style="padding:5px">
+            <img src="assets/screens/screen8.png">
+        </td>
+        <td style="padding:5px">
+            <img src="assets/screens/screen9.png">
+        </td>
+    </tr>
+</table>
+
+
 
 ## A few resources to get you started if this is your first Flutter project:
 
@@ -47,7 +96,7 @@ A few resources to get you started if this is your first Flutter project:
 - Cloud Storage
 
     https://firebase.google.com/docs/storage
-    
+
 - firebase_storage
 
     https://pub.dev/packages/firebase_storage

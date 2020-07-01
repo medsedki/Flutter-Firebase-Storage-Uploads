@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(brightness: Brightness.dark),
       home: ImageCapture(),
     );
@@ -77,7 +78,7 @@ class _ImageCaptureState extends State<ImageCapture> {
               color: Colors.lightBlue,
             ),
             //VerticalDivider(),
-            Container(height: 40, child: VerticalDivider(color: Colors.red)),
+            Container(height: 40, child: VerticalDivider(color: Colors.white)),
             IconButton(
               icon: Icon(
                 Icons.photo_library,
